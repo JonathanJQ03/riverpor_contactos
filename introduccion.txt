@@ -1,0 +1,26 @@
+Introducción (3 párrafos, 4 líneas cada uno)
+
+Este informe presenta las actividades realizadas durante el desarrollo del proyecto, cuyo propósito fue cumplir los objetivos académicos y técnicos propuestos. El trabajo se enmarca dentro del campo de estudio de la Ingeniería en Software, contribuyendo al fortalecimiento de las competencias profesionales.
+
+Párrafo 1: Introducción al tema
+El presente proyecto aborda el diseño e implementación de una aplicación móvil orientada a la gestión de contactos y datos académicos.
+Se analizaron requisitos, se modeló la arquitectura y se implementaron funcionalidades clave aplicando buenas prácticas.
+Se enfatizó la separación en capas y pruebas para garantizar la calidad del software.
+Este enfoque permitió cumplir los objetivos académicos y técnicos planteados.
+
+Párrafo 2: Herramientas utilizadas
+Para el desarrollo se emplearon herramientas como Flutter, Riverpod y Drift para la gestión de estado y persistencia.
+También se integraron paquetes comunitarios, control de versiones y herramientas de construcción de Flutter.
+Se realizaron pruebas unitarias y de integración para mantener la calidad del código.
+Estas herramientas facilitaron un desarrollo eficiente y mantenible.
+
+Párrafo 3: Conclusión
+En conclusión, el proyecto cumplió con los objetivos planteados y fortaleció competencias en ingeniería de software.
+La experiencia permitió consolidar habilidades en arquitectura, manejo de datos y colaboración en equipo.
+Se identificaron áreas de mejora y oportunidades para futuras ampliaciones e investigaciones.
+El trabajo aporta valor académico y práctico al perfil profesional del autor.
+
+Objetivos específicos:
+- Objetivo 1: Analizar el requerimiento funcional y técnico para que se defina claramente el alcance y las necesidades del usuario.
+- Objetivo 2: Implementar el conjunto de funcionalidades principales con Flutter, Riverpod y Drift para que se garantice una gestión eficiente del estado y la persistencia de datos.
+- Objetivo 3: Realizar el conjunto de pruebas unitarias e integración para que se verifique la calidad, robustez y mantenibilidad del sistema.
